@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.couleur{
+
+    background-color: #C9EBFF;
+    
+    border-color: #0F2B52;
+    
+}
+
+.barre {
+    text-decoration: line-through;
+    
+}
+#suppr-all{
+    background-color: #FFC9D1;
+    border-color: #A60017;
+ 
+}
+
